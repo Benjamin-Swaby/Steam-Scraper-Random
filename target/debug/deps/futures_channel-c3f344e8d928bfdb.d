@@ -1,0 +1,11 @@
+/home/ben/projects/learningRust/MultiThreadedWebScraper/target/debug/deps/futures_channel-c3f344e8d928bfdb.rmeta: /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/lib.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/lock.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/mod.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/queue.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/oneshot.rs
+
+/home/ben/projects/learningRust/MultiThreadedWebScraper/target/debug/deps/libfutures_channel-c3f344e8d928bfdb.rlib: /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/lib.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/lock.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/mod.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/queue.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/oneshot.rs
+
+/home/ben/projects/learningRust/MultiThreadedWebScraper/target/debug/deps/futures_channel-c3f344e8d928bfdb.d: /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/lib.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/lock.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/mod.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/queue.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/oneshot.rs
+
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/lib.rs:
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/lock.rs:
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/mod.rs:
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/queue.rs:
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/oneshot.rs:

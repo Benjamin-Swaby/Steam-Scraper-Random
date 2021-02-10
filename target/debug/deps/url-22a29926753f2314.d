@@ -1,0 +1,13 @@
+/home/ben/projects/learningRust/MultiThreadedWebScraper/target/debug/deps/url-22a29926753f2314.rmeta: /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/home/ben/projects/learningRust/MultiThreadedWebScraper/target/debug/deps/liburl-22a29926753f2314.rlib: /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/home/ben/projects/learningRust/MultiThreadedWebScraper/target/debug/deps/url-22a29926753f2314.d: /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs:
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs:
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs:
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs:
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs:
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs:
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs:

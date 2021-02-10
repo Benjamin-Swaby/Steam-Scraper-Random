@@ -1,0 +1,11 @@
+/home/ben/projects/learningRust/MultiThreadedWebScraper/target/debug/deps/string_cache-20badb07d943916c.rmeta: /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/lib.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/atom.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/dynamic_set.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/static_sets.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/trivial_impls.rs
+
+/home/ben/projects/learningRust/MultiThreadedWebScraper/target/debug/deps/libstring_cache-20badb07d943916c.rlib: /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/lib.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/atom.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/dynamic_set.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/static_sets.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/trivial_impls.rs
+
+/home/ben/projects/learningRust/MultiThreadedWebScraper/target/debug/deps/string_cache-20badb07d943916c.d: /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/lib.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/atom.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/dynamic_set.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/static_sets.rs /home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/trivial_impls.rs
+
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/lib.rs:
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/atom.rs:
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/dynamic_set.rs:
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/static_sets.rs:
+/home/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/trivial_impls.rs:
